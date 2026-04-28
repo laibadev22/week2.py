@@ -1,0 +1,3 @@
+1|STUDY|Low|False
+2|STUDY|High|True
+3|group study|Medium|False
